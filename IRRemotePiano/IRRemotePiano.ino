@@ -1,6 +1,6 @@
 
 // Cole Delong
-// Infared Remote Control
+// Infared Remote Piano
 // 4-25-20
 
 
@@ -207,7 +207,7 @@ void loop() {
       digitalWrite(pinE, HIGH);
       digitalWrite(pinF, HIGH);
       digitalWrite(pinG, HIGH);
-      delay(10);
+      delay(2);
 
     } else {
       // display the frequency on the display
